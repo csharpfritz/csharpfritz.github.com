@@ -1,0 +1,11 @@
+BODY {
+	padding: 0px;
+	margin: 0px;
+}
+
+#content {
+	width: 800px;
+	position: relative;
+	margin: 0px auto;
+	padding: 10px 5px 30px 5px;
+}

@@ -1,0 +1,12 @@
+BODY {
+	background-color: navy;
+}
+
+#content {
+	background-color: #FFF;
+	border: 1px solid midnightBlue;
+}
+
+#content * {
+	font-family: arial, helvetica, sans-serif;
+}
