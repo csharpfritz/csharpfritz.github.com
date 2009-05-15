@@ -5,7 +5,23 @@ BODY {
 
 #content {
 	width: 800px;
+	min-height: 600px;
 	position: relative;
 	margin: 0px auto;
 	padding: 10px 5px 30px 5px;
+}
+
+#rtCol {
+	position: static;
+	float: right;
+	clear: both;
+	width: 220px;
+	min-height: 400px;
+	height: 100%;
+	border-left: 1px solid lightSteelBlue;
+}
+
+#rtCol IFRAME {
+	border: none;
+	height: 80px;
 }
